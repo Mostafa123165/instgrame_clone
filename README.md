@@ -4,7 +4,7 @@ A new Flutter project.
 
 # insgrame_clone : 
 - Creat acount by email and facebook .
-- Login with emailAndPassword ans facebook_authorization .
+- Login with emailAndPassword or facebook_authorization .
 - Add post and stories .
 - add-commint on the post .
 - Edit on acount information .
