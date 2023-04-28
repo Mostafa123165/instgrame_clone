@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="facebook_client_token">af027bc73131b08730da86cb927abaeb</string>
+    <string name="app_name">Instgravmclone</string>
+    <string name="facebook_app_id">1293931974668601</string>
+    <string name="fb_login_protocol_scheme">fb1293931974668601</string>
+
+</resources>
