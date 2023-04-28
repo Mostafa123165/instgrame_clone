@@ -12,7 +12,7 @@ A new Flutter project.
 - Fcm notification 
 
 
-## structure : MVVM pattern 
+## structure : Mvvm pattern 
 
 ## Main packages used
 - [flutter_bloc] as state management
