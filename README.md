@@ -18,8 +18,8 @@ A new Flutter project.
 ## Main packages used
 - [flutter_bloc] as state management
 - [shared_preferences] as data base
-- [photo_manager] get image from device
-- [flutter_local_notifications] to handle notification 
+- [photo_manager] get images from device
+- [flutter_local_notifications] to handle notification with firebase_messaging
 ** firebase : 
 [firebase_core] , [firebase_auth]  
 [cloud_firestore] , [firebase_storage]  
@@ -40,4 +40,4 @@ A new Flutter project.
 
 
 ## Demo Video
-https://user-images.githubusercontent.com/88462067/193928912-4df0c8d1-ee8d-4214-9f2b-5cd501f281f3.mp4
+https://user-images.githubusercontent.com/88462067/235262922-167f6f40-48ee-483f-9d74-2af9a89041f8.mp4
